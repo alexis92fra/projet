@@ -1,0 +1,36 @@
+#base
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	align-items: flex-start;
+	background-color: #4b78c6;
+}
+.submit
+{
+	box-shadow: 2px , 2px, 2px, red;
+}
+a
+{
+	text-decoration: none;
+	color: #498afc;
+}
+#boite
+{
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	flex-grow: 1;
+}
+#boite2
+{
+	display: flex;
+	flex-direction: row;
+}
+#conditions
+{
+	align-items: center;
+	display: flex;
+	justify-content: center;
+}
